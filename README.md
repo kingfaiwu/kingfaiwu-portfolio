@@ -28,4 +28,4 @@ Major frameworks/libraries and API used to build my project
 
 King Fai Wu - [@Linkedin Here](https://www.linkedin.com/in/king-fai-wu/) - xpwuu@hotmail.com
 
-Website Link: https://kingfaiwu-websiter.netlify.app/
+Website Link: https://kingfaiwu-portfolio.netlify.app/

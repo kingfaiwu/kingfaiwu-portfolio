@@ -39,7 +39,7 @@ const Footer = () => {
         <Grid container spacing={3}>
           <Grid item xs={12} md={3}>
             <a
-              href="https://github.com/kingfaiwu/King-Fai-Wu-Portfolio.git"
+              href="https://github.com/kingfaiwu/kingfaiwu-portfolio.git"
               target="_blank"
             >
               <FaGithub className={classes.footerIcon} />
