@@ -8,7 +8,7 @@ Please feel free to reach out and thank you for your visit here.
 Run this in command to clone source code to your local computer
 
 ```bash
-$ git clone https://github.com/kingfaiwu/King-Fai-Wu-Portfolio.git
+$ git clone https://github.com/kingfaiwu/kingfaiwu-portfolio.git
 ```
 
 ### Built With
@@ -28,4 +28,4 @@ Major frameworks/libraries and API used to build my project
 
 King Fai Wu - [@Linkedin Here](https://www.linkedin.com/in/king-fai-wu/) - xpwuu@hotmail.com
 
-Website Link: https://github.com/kingfaiwu/King-Fai-Wu-Portfolio.git
+Website Link: https://kingfaiwu-websiter.netlify.app/
